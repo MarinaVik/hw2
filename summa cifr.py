@@ -1,0 +1,5 @@
+chislo = input ("Введите трёхзначное число:")
+numbers1 = int(chislo[0])
+numbers2 = int(chislo[1])
+numbers3 = int(chislo[2])
+print("Сумма цифр числа:", numbers1 + numbers2 + numbers3)
